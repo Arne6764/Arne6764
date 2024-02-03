@@ -1,6 +1,6 @@
 -  Hi, I’m @Arne6764
 -  I’m an Unreal Engine game developer with a focus on high fantasy, strategy, and RPG elements.
--  I’m currently trying to make a simple RPG in Rust, this will be uploaded to github when finished.
+-  Current project: Unreal Engine 5.4 3d Platformer game with RayTracing in a Programmer Art design style.
 -  Pronouns: He/Her
 
 <!---
